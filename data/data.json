@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nitro",
+    "age": 29,
+    "friends": ["kari", "veera", "vel", "vinoth", "rahul"],
+    "family": {
+      "father": "Thanaraj",
+      "mother": "leelevathi"
+    }
+  },
+  {
+    "name": "kari",
+    "age": 27,
+    "friends": ["kari", "veera", "vel", "vinoth", "rahul"],
+    "family": {
+      "father": "Thanaraj",
+      "mother": "leelevathi"
+    }
+  },
+  {
+    "name": "Rahul",
+    "age": 33,
+    "friends": ["kari", "veera", "vel", "vinoth", "rahul"],
+    "family": {
+      "father": "Annadurai",
+      "mother": "mom"
+    }
+  },
+  {
+    "name": "Mukesh",
+    "age": 24,
+    "friends": ["kari", "veera", "vel", "vinoth", "rahul"],
+    "family": {
+      "father": "Annadurai",
+      "mother": " mummmy"
+    }
+  }
+]
